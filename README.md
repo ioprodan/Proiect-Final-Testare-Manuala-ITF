@@ -2,7 +2,7 @@
 &nbsp;
 ### Introduction
 ---
-*Playground* is a suite of **Selenium and RoboBrowser** automated ***tests*** for [Orange HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
+*Playground* is a 'suite' of **Selenium and RoboBrowser** automated ***tests*** for [Orange HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login "The best search engine for privacy").
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
