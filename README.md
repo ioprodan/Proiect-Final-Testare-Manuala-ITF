@@ -42,3 +42,18 @@
    ```
 
 ![Tux, the Linux mascot](/Capture.JPG)
+
+<img src="/Capture.JPG" width="200" height="100">
+
+
+| Syntax | Description |
+| --- | ----|
+| Header | Title title title title tielt |
+| Paragraph | Text |
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [x] Contact the media
+
+    I need to highlight these ==very important words==.
