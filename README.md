@@ -40,3 +40,5 @@
      <title>Test</title>
    </head>
    ```
+
+![Tux, the Linux mascot](/Capture.JPG)
